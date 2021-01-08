@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonCrawl", "BoizyGame\DungeonCrawl.csproj", "{122D9A26-488F-4DEA-BB8B-05FD321452A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "BoizyClasses\Classes.csproj", "{DB844F01-A910-4016-9270-32D703C31510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122D9A26-488F-4DEA-BB8B-05FD321452A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122D9A26-488F-4DEA-BB8B-05FD321452A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122D9A26-488F-4DEA-BB8B-05FD321452A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122D9A26-488F-4DEA-BB8B-05FD321452A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB844F01-A910-4016-9270-32D703C31510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB844F01-A910-4016-9270-32D703C31510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB844F01-A910-4016-9270-32D703C31510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB844F01-A910-4016-9270-32D703C31510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {452C9C17-0179-45E6-98DF-478540EF0792}
+	EndGlobalSection
+EndGlobal
